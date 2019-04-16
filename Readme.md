@@ -1,1 +1,6 @@
 
+<style>
+  body{
+    direction:rtl;  
+  }
+  </style>
