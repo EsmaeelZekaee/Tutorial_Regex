@@ -1,6 +1,1 @@
-
-<style>
-  body{
-    direction:rtl;  
-  }
-  </style>
+#آموزش Regex
